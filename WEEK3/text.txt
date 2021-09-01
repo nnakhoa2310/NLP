@@ -1,0 +1,39 @@
+300;400;500
+2332020-162
+0236 3981 368
+0236 627 7868
+0236 3981 368
+0236 627 7868
+https://fonts.googleapis.com/css2?family=inter:wght@300;400;500;700&display=swap
+<b>daotao@vku.udn.vn</b>
+kt_dbcl@vku.udn.vn<br/>
+<b>daotao@vku.udn.vn</b>
+kt_dbcl@vku.udn.vn<br/>
+http://elearning.vku.udn.vn/theme/image.php/boost/theme/1628590637/favicon
+https://fonts.googleapis.com/css2?family=inter:wght@300;400;500;700&display=swap
+http://beta.vku.udn.vn/elearning/style.css
+http://elearning.vku.udn.vn/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.css
+http://elearning.vku.udn.vn/theme/styles.php/boost/1628590637_1/all
+http://elearning.vku.udn.vn/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple-min.js
+http://elearning.vku.udn.vn/lib/javascript.php/1628588551/lib/javascript-static.js
+http://beta.vku.udn.vn/elearning/logo_mobile.png'
+http://beta.vku.udn.vn/elearning/elearning.png
+http://daotao.vku.udn.vn/sict-thong-bao/thong-bao-trien-khai-cac-lop-hoc-phan-online-tu-ngay-2332020-162.html
+http://beta.vku.udn.vn/elearning/e-learning-banner.jpg
+https://fb.com/daotao.vku.udn.vn
+http://elearning.vku.udn.vn/mod/forum/view.php?id=7
+https://fb.com/daotao.vku.udn.vn
+http://elearning.vku.udn.vn/mod/forum/view.php?id=7
+https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+http://elearning.vku.udn.vn/auth/oauth2/login.php?id=3&amp;wantsurl=%2f&amp;sesskey=cklhfprlsi
+https://accounts.google.com/favicon.ico
+http://elearning.vku.udn.vn/login/index.php
+http://elearning.vku.udn.vn/
+http://elearning.vku.udn.vn/admin/tool/dataprivacy/summary.php
+https://download.moodle.org/mobile?version=2018051702.14&amp;lang=vi&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile
+http://elearning.vku.udn.vn/lib/requirejs.php/1628588551/',
+http://elearning.vku.udn.vn/lib/javascript.php/1628588551/lib/jquery/jquery-3.2.1.min',
+http://elearning.vku.udn.vn/lib/javascript.php/1628588551/lib/jquery/ui-1.12.1/jquery-ui.min',
+http://elearning.vku.udn.vn/lib/javascript.php/1628588551/lib/requirejs/jquery-private'
+http://elearning.vku.udn.vn/lib/javascript.php/1628588551/lib/requirejs/require.min.js
+http://elearning.vku.udn.vn/media/player/videojs/videojs/video-js.swf
